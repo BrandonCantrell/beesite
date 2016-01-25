@@ -3,6 +3,7 @@
 * { font-family: Source-Sans-Pro; }
 
 body {
+    padding-top: 70px;
     font-size: 14pt;
     background-color: #000000;
     background-image: url("../img/honeybg6.jpg");
@@ -17,6 +18,10 @@ body {
 
 .container-color {
 	background: #F4F4F4;
+}
+
+.header-container {
+  padding-bottom: 20px;
 }
 
 /*Menu Bar!!!*/
